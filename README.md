@@ -2,7 +2,7 @@
 
 This repository contains the work completed during my Summer Research Internship under the UM Virtual Internship Program at Physiomimetic Microsystems Lab at University of Miami, Miami, Florida. 
 
-The project aimed to model the solubility of gases in unsaturated water solutions using COMSOL Multiphysics to accurately simulate the interaction between gas and liquid phases under different conditions. The simulations was part of a bigger project [1](https://diabetesresearch.org)[2](https://umiamihealth.org/locations/sylvester-comprehensive-cancer-center) that contributes to the design of synthetic organs on a chip with fluidic microsystems. The solubility and diffusion of gases in liquids influence the functionality and efficiency of lab systems used in Biomedical Engineering. This project specifically addressed how gas concentration gradients develop over time and how these can be optimized for better performance in microscale environments.
+The project aimed to model the solubility of gases in unsaturated water solutions using COMSOL Multiphysics to accurately simulate the interaction between gas and liquid phases under different conditions. The simulations was part of a bigger project [1](https://diabetesresearch.org), [2](https://umiamihealth.org/locations/sylvester-comprehensive-cancer-center) that contributes to the design of synthetic organs on a chip with fluidic microsystems. The solubility and diffusion of gases in liquids influence the functionality and efficiency of lab systems used in Biomedical Engineering. This project specifically addressed how gas concentration gradients develop over time and how these can be optimized for better performance in microscale environments.
 
 ## Key Responsibilities
 
