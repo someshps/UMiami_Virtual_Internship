@@ -19,13 +19,7 @@ Conducted a transient study to observe how concentration gradients of gases deve
 
 - **Analysis Focus**: Temporal changes in gas concentration, impact on microfluidic system design
 - **Applications**: Design and optimization of synthetic organs on a chip
-
-### 3. Proficiency and Learning
-
-Through the course of the project, I gained significant proficiency in using COMSOL Multiphysics for complex simulations. This enhanced my understanding of fluid flow dynamics and gas solubility processes in microscale environments, particularly in biomedical applications.
-
-- **Skills Acquired**: Computational modeling, simulation of fluid flow and solubility, microfluidic system design
-
+- 
 ## Project Contributions
 
 ### Synthetic Organ on a Chip Design
@@ -37,19 +31,8 @@ The insights gained from the concentration gradient analysis contributed to the 
 
 ## Repository Structure
 
-- **COMSOL Models**: Includes all simulation files and models developed in COMSOL Multiphysics.
-- **Transient Study Data**: Contains data files and results from the transient study, showing how gas concentration gradients develop over time.
-- **Documentation**: Detailed documentation of the modeling process, parameters used, and the outcomes of the simulations.
-- **Presentations and Reports**: Includes the final presentation and reports summarizing the project findings and contributions to biomedical engineering.
-
-## Outcome
-
-- **Developed** a comprehensive model using COMSOL Multiphysics to simulate gas solubility and fluid flow dynamics.
-- **Enhanced** my computational modeling skills and understanding of microfluidic systems.
-- **Contributed** to the design of synthetic organs on a chip by providing valuable insights into the behavior of gas solubility in fluidic environments.
+- **[COMSOL Models]()**: Includes all simulation files and models developed in COMSOL Multiphysics.
+- **[Solubilty Data]()**: Contains standard data files for solubility of various gases. 
+- **[Poster Presentation]()**: Includes the poster being presented at Undergraduate Research Conclave at IIT Gandhinagar
 
 The project was conducted under the guidance of Prof. Ashutosh Agarwal and Charles Alver (PhD, University of Miami). 
-
----
-
-This README description provides a clear overview of your internship project, outlining your responsibilities, what you learned, your contributions, and the overall achievements in a structured manner.
