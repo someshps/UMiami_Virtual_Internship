@@ -22,8 +22,8 @@ Conducted a transient study to observe how concentration gradients of gases deve
 
 ## Repository Structure
 
-- **[COMSOL Models]()**: Includes all simulation files and models developed in COMSOL Multiphysics.
-- **[Solubilty Data]()**: Contains standard data files for solubility of various gases. 
-- **[Poster Presentation]()**: Includes the poster being presented at Undergraduate Research Conclave at IIT Gandhinagar
+- **[COMSOL Models](https://github.com/someshps/UMiami_Virtual_Internship/tree/main/ComsolFiles)**: Includes all simulation files and models developed in COMSOL Multiphysics.
+- **[Solubilty Data](https://github.com/someshps/UMiami_Virtual_Internship/tree/main/Literature)**: Contains standard data files for solubility of various gases. 
+- **[Poster Presentation](https://github.com/someshps/UMiami_Virtual_Internship/tree/main/Poster)**: Includes the poster being presented at Undergraduate Research Conclave at IIT Gandhinagar
 
 The project was conducted under the guidance of Prof. Ashutosh Agarwal and Charles Alver (PhD, University of Miami). 
